@@ -6,7 +6,7 @@ The app is particularly helpful for elderly individuals and those with chronic o
 
 Video link : (https://github.com/assistantsiri784/Automatic_Medicine_Reminder/blob/main/project_video.mp4%20(1).mp4)
 
-Technologies Used
+Technologies Used: 
 Flutter & Dart – Mobile app development
 Figma – UI/UX design
 
