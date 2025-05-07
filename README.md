@@ -10,6 +10,6 @@ Technologies Used
 Flutter & Dart – Mobile app development
 Figma – UI/UX design
 
-Figma Link Working PDF: https://github.com/assistantsiri784/Automatic_Medicine_Reminder/blob/main/How%20Fogma%20Link%20Work.pdf
+Figma Link Working PDF (step by step): https://github.com/assistantsiri784/Automatic_Medicine_Reminder/blob/main/How%20Fogma%20Link%20Work.pdf
 
 Project Figma Link: https://www.figma.com/proto/8CQMF7CwSrMKXIngBuMhxs/Mini-project?node-id=3-100&p=f&t=QPA0QvjO3voh6lOT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A100
