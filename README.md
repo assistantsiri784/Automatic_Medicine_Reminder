@@ -10,4 +10,4 @@ Technologies Used
 Flutter & Dart – Mobile app development
 Figma – UI/UX design
 
-https://www.figma.com/proto/8CQMF7CwSrMKXIngBuMhxs/Mini-project?node-id=0-1&t=xPFp2ILjZEWQZRlA-1
+Figma Link: https://www.figma.com/proto/8CQMF7CwSrMKXIngBuMhxs/Mini-project?node-id=3-100&p=f&t=QPA0QvjO3voh6lOT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A100
